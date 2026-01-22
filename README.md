@@ -141,28 +141,36 @@ src/
  ├─ services/
  ├─ utils/
  └─ styles/
+
+```
+
 🚀 Getting Started (Local Development)
+```txt
 Prerequisites
 Node.js 18+
 
 npm
+```
 
 Clone & Run
+```txt
 git clone https://github.com/NilamXSC/BlogVerse.git
 cd BlogVerse
 npm install
 npm run dev
-Visit:
-👉 http://localhost:5173
+```
 
 🔐 Environment Variables
+```txt
 Create a .env file in the project root:
 
 VITE_APP_NAME=BlogVerse
 VITE_GOOGLE_CLIENT_ID=your_google_client_id
 ⚠️ Only variables prefixed with VITE_ are exposed to the client in Vite.
+```
 
 📱 Mobile & App Ready
+```txt
 Mobile-first responsive design
 
 Touch-friendly UI
@@ -174,8 +182,10 @@ Progressive Web App (PWA)
 Android wrapper
 
 iOS wrapper
+```
 
 🧪 Quality Standards
+```txt
 Clean TypeScript
 
 Modular components
@@ -187,8 +197,10 @@ No tracked node_modules
 Optimized Vercel build pipeline
 
 Production-grade codebase
+```
 
 📌 Roadmap
+```txt
 Admin moderation panel
 
 Notifications system
@@ -198,8 +210,10 @@ Offline read mode
 Rich media embeds
 
 Monetization features
+```
 
 🤝 Contributing
+```txt
 Contributions, issues, and feature requests are welcome.
 
 Fork the repo
@@ -209,6 +223,7 @@ Create a feature branch
 Commit changes
 
 Open a Pull Request
+```
 
 📄 License
 MIT License © 2026 BlogVerse
