@@ -34,7 +34,7 @@ export const Header = () => {
               whileHover={{ scale: 1.05 }}
               className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent"
             >
-              BlogVerse ✨
+              BlogVerse
             </motion.div>
           </Link>
 
