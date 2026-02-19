@@ -52,7 +52,7 @@ export const HeroSection = () => {
             <span className="text-foreground">Where Stories</span>
             <br />
             <span className="bg-gradient-to-r from-primary via-secondary to-muted-foreground bg-clip-text text-transparent">
-              Come Alive ✨
+              Come Alive
             </span>
           </motion.h1>
 
